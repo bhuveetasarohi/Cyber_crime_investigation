@@ -1,0 +1,11 @@
+timestamp_utc,source,event_id,event,details
+2026-11-24T08:42:00Z,EMAIL_GATEWAY,mail-001,Phishing email delivered,sender=records-update@example.invalid; attachment=Invoice_Update.zip
+2026-11-24T08:47:13Z,WORKSTATION,ws-014,Attachment opened,user=training.user; file=Invoice_Update.zip
+2026-11-24T08:49:02Z,IDENTITY,id-021,Unusual login success,account=svc_backup; source_ip=192.0.2.44
+2026-11-24T08:53:40Z,NETWORK,net-033,Outbound connection observed,destination=198.51.100.23; port=443; label=synthetic
+2026-11-24T09:02:11Z,USB,usb-004,USB storage inserted,device=TRAINING-USB-01; host=ws-014
+2026-11-24T09:11:55Z,FILE_SERVER,fs-051,Bulk file modification activity,host=fs-01; count=3; extension=.OMEGA_SIMULATED
+2026-11-24T09:14:20Z,FILE_SERVER,fs-052,Ransom note created,host=fs-01; file=README_RESTORE_OMEGA.txt
+2026-11-24T09:18:00Z,SOC,soc-010,Incident declared,severity=high; case=OMEGA-2026-001
+2026-11-24T09:26:30Z,NETWORK,net-041,Affected workstation isolated,host=ws-014; action=network_isolation
+2026-11-24T10:16:00Z,FORENSICS,for-001,Evidence preservation started,operator=training.investigator

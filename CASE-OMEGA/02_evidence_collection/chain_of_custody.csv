@@ -1,0 +1,3 @@
+evidence_id,item,from_person,to_person,date_time_utc,action,purpose,seal_or_reference,signatures
+E-01,Simulated server logical package,Scenario generator,Student investigator,2026-11-25T10:00:00Z,Created in lab,Training acquisition,OMEGA-SEAL-001,TRAINING RECORD
+E-02,Synthetic system logs,Scenario generator,Student investigator,2026-11-25T10:00:00Z,Generated in lab,Timeline analysis,OMEGA-SEAL-002,TRAINING RECORD

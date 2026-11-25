@@ -1,0 +1,2 @@
+evidence_id,filename,size_bytes,sha256,acquisition_type,notes
+E-01,simulated_server_image.tar,10240,b3283066f24b01781ce29176ab98ebb8d29b2e88bcdf3eccbb8920e1673873bb,Logical TAR package,Synthetic server directory; not a physical disk image

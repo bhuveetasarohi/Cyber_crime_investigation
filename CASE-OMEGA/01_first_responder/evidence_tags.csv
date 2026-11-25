@@ -1,0 +1,7 @@
+evidence_id,item,location,description,collection_status
+E-01,Hospital file server,Simulated server room,Virtual server folder and logical evidence package,Simulated
+E-02,Network switch logs,Simulated server room,Synthetic network event log,Simulated
+E-03,Firewall logs,Simulated server room,Synthetic perimeter connection log,Simulated
+E-04,Employee workstation,Clinical administration desk,Synthetic workstation activity log,Simulated
+E-05,USB storage,Clinical administration desk,Synthetic USB insertion event,Simulated
+E-06,Email gateway records,IT security console,Synthetic phishing email event,Simulated
