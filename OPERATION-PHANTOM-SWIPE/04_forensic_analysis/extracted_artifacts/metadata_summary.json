@@ -1,0 +1,13 @@
+[
+  {
+    "source_file": "03_evidence_acquisition\\acquired_media\\device_01_skimmer\\device_metadata.json",
+    "evidence_id": "EV-001",
+    "metadata": {
+      "device_id": "SK-001",
+      "case_id": "OPS-2026-001",
+      "created_utc": "2026-11-20T10:30:00Z",
+      "description": "Fictional simulated evidence metadata",
+      "is_physical_image": false
+    }
+  }
+]

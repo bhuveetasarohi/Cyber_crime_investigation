@@ -1,0 +1,5 @@
+DEVICE ID: PH-002
+DEVICE TYPE: Simulated suspect mobile-phone evidence folder
+OWNER: Fictional subject S-02
+STATUS: Simulated acquisition only
+CASE ID: OPS-2026-001

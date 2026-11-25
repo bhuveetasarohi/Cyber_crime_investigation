@@ -1,0 +1,3 @@
+SIMULATED FILE-COPY ACQUISITION
+Timestamp: 2026-11-25T16:24:32.408198+00:00
+No physical device, write blocker or bit-stream imaging was used.

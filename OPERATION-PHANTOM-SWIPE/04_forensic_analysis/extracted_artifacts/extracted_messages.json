@@ -1,0 +1,12 @@
+[
+  {
+    "evidence_id": "EV-002",
+    "source_file": "03_evidence_acquisition\\acquired_media\\device_02_suspect_phone\\messages.txt",
+    "message": "2026-11-20 09:05 | S-02: Meet near the test terminal after closing."
+  },
+  {
+    "evidence_id": "EV-002",
+    "source_file": "03_evidence_acquisition\\acquired_media\\device_02_suspect_phone\\messages.txt",
+    "message": "2026-11-20 12:25 | S-02: Transfer log TXN-OPS-8841 is only a simulation."
+  }
+]

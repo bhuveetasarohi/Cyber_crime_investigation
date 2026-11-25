@@ -1,0 +1,4 @@
+evidence_id,source_file,Record_ID,Test_Card_Number,Expiry,Location
+EV-001,03_evidence_acquisition\acquired_media\device_01_skimmer\card_records.csv,R001,4111111111111111,12/29,Mumbai
+EV-001,03_evidence_acquisition\acquired_media\device_01_skimmer\card_records.csv,R002,4012888888881881,10/28,Delhi
+EV-001,03_evidence_acquisition\acquired_media\device_01_skimmer\card_records.csv,R003,5555555555554444,08/30,London

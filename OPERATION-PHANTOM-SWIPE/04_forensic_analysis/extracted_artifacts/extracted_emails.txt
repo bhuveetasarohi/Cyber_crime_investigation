@@ -1,0 +1,1 @@
+Source: 03_evidence_acquisition\acquired_media\device_02_suspect_phone\emails\suspect_email.eml\nEvidence ID: EV-002\nFrom: operator@example.invalid\nTo: contact@example.invalid\nDate: Fri, 20 Nov 2026 13:10:00 +0000\nSubject: Test archive hand-off\n

@@ -1,0 +1,1 @@
+Archive: 05_cryptography\password_protected\evidence.zip\nMethod: ZIP AES (pyzipper)\nCandidates attempted: 5\nRecovered test password: phantom123\nTime taken seconds: 0.019367\nScope: own deliberately weak training archive only. No third-party accounts/devices/data tested.\n

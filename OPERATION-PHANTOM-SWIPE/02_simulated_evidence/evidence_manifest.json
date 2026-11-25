@@ -1,0 +1,16 @@
+{
+  "case_id": "OPS-2026-001",
+  "notice": "All records are simulated; no real people or payment data.",
+  "evidence": [
+    {
+      "evidence_id": "EV-001",
+      "device_id": "SK-001",
+      "path": "device_01_skimmer"
+    },
+    {
+      "evidence_id": "EV-002",
+      "device_id": "PH-002",
+      "path": "device_02_suspect_phone"
+    }
+  ]
+}

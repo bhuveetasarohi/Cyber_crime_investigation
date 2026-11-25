@@ -1,0 +1,38 @@
+[
+  {
+    "type": "test_card_record",
+    "count": 3,
+    "source_file": "03_evidence_acquisition\\acquired_media\\device_01_skimmer\\card_records.csv",
+    "evidence_id": "EV-001"
+  },
+  {
+    "type": "communication_message",
+    "count": 2,
+    "source_file": "03_evidence_acquisition\\acquired_media\\device_02_suspect_phone\\messages.txt",
+    "evidence_id": "EV-002"
+  },
+  {
+    "type": "suspicious_email",
+    "count": 1,
+    "source_file": "03_evidence_acquisition\\acquired_media\\device_02_suspect_phone\\emails\\suspect_email.eml",
+    "evidence_id": "EV-002"
+  },
+  {
+    "type": "gps_location",
+    "count": 2,
+    "source_file": "03_evidence_acquisition\\acquired_media\\device_02_suspect_phone\\gps_locations.csv",
+    "evidence_id": "EV-002"
+  },
+  {
+    "type": "transaction_id",
+    "value": null,
+    "source_file": "03_evidence_acquisition\\acquired_media\\device_01_skimmer\\transaction_logs.txt",
+    "evidence_id": "EV-001"
+  },
+  {
+    "type": "application_login",
+    "value": "2026-11-20 08:55:12 UTC user=S-02 result=SUCCESS\nEVENT: 2026-11-20 12:21:04 UTC tx",
+    "source_file": "03_evidence_acquisition\\acquired_media\\device_02_suspect_phone\\fraudulent_app_logs.txt",
+    "evidence_id": "EV-002"
+  }
+]

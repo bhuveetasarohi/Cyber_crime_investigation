@@ -1,0 +1,5 @@
+DEVICE ID: SK-001
+DEVICE TYPE: Simulated ATM skimmer evidence folder
+LOCATION: Fictional Mumbai ATM Terminal
+STATUS: Simulated seizure for coursework
+CASE ID: OPS-2026-001
